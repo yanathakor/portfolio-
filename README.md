@@ -59,20 +59,5 @@ I am currently pursuing a Bachelor of Technology (B.Tech) in Computer Science En
 
 ---
 
-## 📫 Contact
-- ✉️ Email: `your-email@example.com`  
-- 🔗 LinkedIn: `https://www.linkedin.com/in/your-profile`  
-- 📱 Phone: `+91-XXXXXXXXXX`  
-
-> Replace the placeholders above with your actual contact details before publishing.
-
----
-
-## ✅ How to Use
-- Copy this `README.md` into your repository or portfolio editor.  
-- Replace contact placeholders and add links to your projects or portfolio pages.  
-- Want a one-page HTML version or a styled PDF? I can generate that too.
-
----
 
 *Made with ❤️ by Yana Thakor — Computer Science Engineering Student.*
